@@ -1,0 +1,66 @@
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+body{
+    background-color: rgb(92, 84, 84) !important;
+    box-shadow: rgb(0, 0, 0); 
+    font-family: 'Open Sans', sans-serif;
+     margin: auto; 
+}
+#container{
+      
+       margin: 5% !important;
+       height: 50%;
+       width: 40%;
+       margin:0px auto;
+       background-color:white;
+       border-radius: 20px;
+       padding: 30px;
+       text-size-adjust: 30px;
+       
+       
+}
+select{
+    margin: 6px 0px;
+    background-color: lightgray;
+}
+   h1{
+       color: blanchedalmond;
+       text-align: center;
+       background-color:black;
+       margin-top: 0px !important;
+      
+   }
+   p{
+       color: black;
+       padding: 20px;
+       padding-top: 10px;
+   }
+   input{
+       margin: 3px;
+       color: black;
+       background-color: lightgray;
+       padding-left: 3px;
+       height: 20px;
+       width: 70%;
+       border: black,3px;
+   }
+   #billamt{
+       color: black;
+       background-color: lightgray !important;
+       border: black;
+       margin: 6px 0px;
+   }
+   #peopleamt{
+       color:black;
+       background-color: lightgray !important;
+       border: black;
+       margin: 6px 0px;
+   }
+
+   
+   #totaltip{
+       color: black;
+   }
+   #tip{
+       color:red ;
+   }
